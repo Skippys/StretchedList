@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\StretchedList\StretchedList\bin\Debug\StretchedList.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\StretchedList\StretchedList\bin\Debug\StretchedList.exe
+c:\users\admin\documents\visual studio 2013\Projects\StretchedList\StretchedList\bin\Debug\StretchedList.pdb
+c:\users\admin\documents\visual studio 2013\Projects\StretchedList\StretchedList\obj\Debug\StretchedList.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\StretchedList\StretchedList\obj\Debug\StretchedList.exe
+c:\users\admin\documents\visual studio 2013\Projects\StretchedList\StretchedList\obj\Debug\StretchedList.pdb
