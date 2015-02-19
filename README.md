@@ -20,5 +20,5 @@ UpdateLoop() {
 which results in a spike every counter==10
 we do 10% (noOfFrames%) of the list per frame with it accounting for deleting and adding to the list through the rest of the game loop.
 
-keep in mind if what ur doing in the list is time sensitive (mobai) you need to track last time either per mob or per list iteration and account for thatt
+keep in mind if what youre doing in the list is time sensitive (mobai) you need to track last time either per mob or per list iteration and account for thatt
 
